@@ -1,0 +1,17 @@
+{
+    "vk" : {
+      "auth" : {
+        "login" : "Kzc5MDMxMzkzMjAz",
+        "password" : "N25lYjkwbVBtdjE="
+      },
+      "urls" : {
+        "feed" : "https://vk.com/feed",
+        "login" : "https://vk.com/login"
+      }
+    },
+    "paths" : {
+      "cache_file1" : "titles.json",
+      "cache_file2" : "texts.json",
+      "cache_file3" : "images.json"
+    }
+  }
